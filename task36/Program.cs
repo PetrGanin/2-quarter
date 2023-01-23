@@ -4,7 +4,7 @@
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
 
-int [] FillArrayRandom(int [] array)
+int [] FillArrRandom(int [] array)
 {
     for(int i = 0; i < array.Length; i++)
     {
@@ -14,7 +14,7 @@ int [] FillArrayRandom(int [] array)
 }
 
 int [] array = new int [9];
-FillArrayRandom(array);
+FillArrRandom(array);
 
 Console.WriteLine("Ваш случайный массив: ");
 Console.WriteLine(String.Join(",", array));
