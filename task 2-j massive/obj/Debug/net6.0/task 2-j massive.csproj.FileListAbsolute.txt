@@ -1,0 +1,15 @@
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\bin\Debug\net6.0\task 2-j massive.exe
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\bin\Debug\net6.0\task 2-j massive.deps.json
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\bin\Debug\net6.0\task 2-j massive.runtimeconfig.json
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\bin\Debug\net6.0\task 2-j massive.dll
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\bin\Debug\net6.0\task 2-j massive.pdb
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\task 2-j massive.csproj.AssemblyReference.cache
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\task 2-j massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\task 2-j massive.AssemblyInfoInputs.cache
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\task 2-j massive.AssemblyInfo.cs
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\task 2-j massive.csproj.CoreCompileInputs.cache
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\task 2-j massive.dll
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\refint\task 2-j massive.dll
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\task 2-j massive.pdb
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\task 2-j massive.genruntimeconfig.cache
+C:\Users\Z-Tech\Desktop\II четверть\task 2-j massive\obj\Debug\net6.0\ref\task 2-j massive.dll
