@@ -21,6 +21,7 @@ void FillArray(int[,] massive)
     Console.WriteLine();
     }
 }
+Console.WriteLine();
 FillArray(massive);
 
 void FillArrayRandom(int[,] rand){
@@ -33,4 +34,6 @@ void FillArrayRandom(int[,] rand){
     }
 
 }
-FillArrayRandom(rand);
+FillArray(massive);
+Console.WriteLine();
+FillArrayRandom(massive);
