@@ -9,6 +9,7 @@
 //     }
 //     Console.WriteLine();
 // }
+
 int [,] massive = new int [3,4];
 void FillArray(int[,] massive)
 {
